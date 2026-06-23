@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Which sentence is most suitable for an academic essay?",
+    "choices": [
+      "Kids nowadays use phones a lot.",
+      "Children today use mobile phones frequently.",
+      "Phones are everywhere with kids.",
+      "Lots of kids got phones."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "text": "Choose the best linking phrase: _____, many people prefer online learning.",
+    "choices": ["However", "In conclusion", "For example", "As a result"],
+    "correctAnswerIndex": 3
+  }
+]
